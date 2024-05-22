@@ -7,19 +7,17 @@
 body {
     text-align: center;
     display: flex;
-    /* align-items: center; */
+    align-items: center;
     justify-content: center;
-    margin-top: 100px;
-    /* height: 100dvh; */
+    height: 100dvh;
     background-color: aquamarine;
+    background-image: linear-gradient(rgb(225, 26, 26), white);
 }
 
-/* form {
-
-    padding: 5%;
-} */
-.btn {
+button {
     padding: 2%;
+    border-radius: 5px;
+    background-color: aquamarine;
 }
 
 img {
@@ -29,4 +27,6 @@ img {
 
 input {
     padding: 2%;
+    width: 80%;
+    height: 30px;
 }
