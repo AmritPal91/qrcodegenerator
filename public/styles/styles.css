@@ -10,17 +10,13 @@ body {
     align-items: center;
     justify-content: center;
     height: 100dvh;
-    background-image: linear-gradient(red, white);
+    background-image: linear-gradient(rgb(140, 172, 205), white);
 }
 
-/* form {
-
-    padding: 5%;
-} */
 button {
     padding: 2%;
     border-radius: 5px;
-    background-color: aquamarine;
+    background-color: rgb(186, 214, 231);
 }
 
 img {
