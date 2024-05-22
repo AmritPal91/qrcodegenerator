@@ -10,14 +10,14 @@ body {
     align-items: center;
     justify-content: center;
     height: 100dvh;
-    background-color: aquamarine;
+    background-image: linear-gradient(red, white);
 }
 
 /* form {
 
     padding: 5%;
 } */
-.btn {
+button {
     padding: 2%;
     border-radius: 5px;
     background-color: aquamarine;
