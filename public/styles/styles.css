@@ -11,10 +11,13 @@ body {
     justify-content: center;
     height: 100dvh;
     background-color: aquamarine;
-    background-image: linear-gradient(rgb(225, 26, 26), white);
 }
 
-button {
+/* form {
+
+    padding: 5%;
+} */
+.btn {
     padding: 2%;
     border-radius: 5px;
     background-color: aquamarine;
